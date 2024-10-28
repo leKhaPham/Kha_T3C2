@@ -14,7 +14,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![FireBase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)
+![FireBase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 * ### **Dự án** </br>
 ### [Website Xem Phim](https://github.com/SviverVew/ThreeSome) </br>
 ### [Website Tuyển Dụng việc làm Server FrontEnd](https://github.com/thanhthien-git/hireforwork-app) </br>
